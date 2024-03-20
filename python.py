@@ -1,0 +1,1 @@
+print("Aprendendo a mexer no linux. ")
